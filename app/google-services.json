@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493393134846",
+    "project_id": "videocallapp-kotlin-peerjs",
+    "storage_bucket": "videocallapp-kotlin-peerjs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493393134846:android:151cf60809cc8b3108d1af",
+        "android_client_info": {
+          "package_name": "com.mad_lab.videocallapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb51gsl_KqN6Eqsz-25zXWhxgb7kqtuTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

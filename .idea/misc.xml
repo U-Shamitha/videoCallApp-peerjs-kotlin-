@@ -1,0 +1,19 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Internship tasks/VideoCallApp/app/src/main/res/drawable-v24/ic_baseline_call_end_24_red.xml" value="0.192" />
+        <entry key="..\:/Internship tasks/VideoCallApp/app/src/main/res/drawable/ic_baseline_call_end_24.xml" value="0.192" />
+        <entry key="..\:/Internship tasks/VideoCallApp/app/src/main/res/drawable/round_icon.xml" value="0.192" />
+        <entry key="..\:/Internship tasks/VideoCallApp/app/src/main/res/layout/activity_call.xml" value="0.25" />
+        <entry key="..\:/Internship tasks/VideoCallApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
